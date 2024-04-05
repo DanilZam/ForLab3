@@ -2,38 +2,33 @@
   "products": [
     {
       "id": "1",
-      "name": "Logitech G Pro",
-      "price": "365.25"
+      "name": "Barrett M107",
+      "price": "10520.20"
     },
     {
       "id": "2",
-      "name": "Logitech G 805",
-      "price": "725.00"
+      "name": "Glock 19",
+      "price": "7025.00"
     },
     {
       "id": "3",
-      "name": "Razer Deathadder V3 Pro",
-      "price": "393.90"
+      "name": "M4A1",
+      "price": "9993.90"
     },
     {
       "id": "4",
-      "name": "ASUS ROG Keris Wireless AimPoint",
-      "price": "286.43"
+      "name": "Steyr AUG",
+      "price": "9006.77"
     },
     {
       "id": "5",
-      "name": "HyperX Cloud Alpha",
-      "price": "295.55"
+      "name": "MP5",
+      "price": "8500.00"
     },
     {
       "id": "6",
-      "name": "HyperX Fury S Pro M",
-      "price": "69.00"
-    },
-    {
-      "id": "7",
-      "name": "ASUS ROG Azoth",
-      "price": "1453.43"
+      "name": "FN SCAR-L",
+      "price": "9700.21"
     }
   ]
 }
